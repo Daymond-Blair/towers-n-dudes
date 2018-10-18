@@ -1,0 +1,11 @@
+C:\Users\D\Desktop\pick-it-up\Projects\C#\towers-n-dudes\obj\MCD\Debug\netcoreapp2.1\towers-n-dudes.csprojAssemblyReference.cache
+C:\Users\D\Desktop\pick-it-up\Projects\C#\towers-n-dudes\obj\MCD\Debug\netcoreapp2.1\towers-n-dudes.csproj.CoreCompileInputs.cache
+C:\Users\D\Desktop\pick-it-up\Projects\C#\towers-n-dudes\obj\MCD\Debug\netcoreapp2.1\towers-n-dudes.AssemblyInfoInputs.cache
+C:\Users\D\Desktop\pick-it-up\Projects\C#\towers-n-dudes\obj\MCD\Debug\netcoreapp2.1\towers-n-dudes.AssemblyInfo.cs
+C:\Users\D\Desktop\pick-it-up\Projects\C#\towers-n-dudes\bin\MCD\Debug\netcoreapp2.1\towers-n-dudes.deps.json
+C:\Users\D\Desktop\pick-it-up\Projects\C#\towers-n-dudes\bin\MCD\Debug\netcoreapp2.1\towers-n-dudes.runtimeconfig.json
+C:\Users\D\Desktop\pick-it-up\Projects\C#\towers-n-dudes\bin\MCD\Debug\netcoreapp2.1\towers-n-dudes.runtimeconfig.dev.json
+C:\Users\D\Desktop\pick-it-up\Projects\C#\towers-n-dudes\bin\MCD\Debug\netcoreapp2.1\towers-n-dudes.dll
+C:\Users\D\Desktop\pick-it-up\Projects\C#\towers-n-dudes\bin\MCD\Debug\netcoreapp2.1\towers-n-dudes.pdb
+C:\Users\D\Desktop\pick-it-up\Projects\C#\towers-n-dudes\obj\MCD\Debug\netcoreapp2.1\towers-n-dudes.dll
+C:\Users\D\Desktop\pick-it-up\Projects\C#\towers-n-dudes\obj\MCD\Debug\netcoreapp2.1\towers-n-dudes.pdb
